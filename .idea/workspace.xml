@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb73b4e-7b48-4f49-ba43-969360357116" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/Modules/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Modules/forms.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/Modules/modals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Modules/modals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +46,9 @@
       <updated>1610111559312</updated>
       <workItem from="1610111560356" duration="6460000" />
       <workItem from="1610128689403" duration="1146000" />
-      <workItem from="1610362566470" duration="4635000" />
+      <workItem from="1610362566470" duration="5092000" />
+      <workItem from="1610376550457" duration="154000" />
+      <workItem from="1610713390259" duration="3871000" />
     </task>
     <servers />
   </component>
@@ -72,9 +72,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1654" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610122121095" />
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1610113944288">
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1610715520651">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1610113944288" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1610715520651" />
   </component>
 </project>
